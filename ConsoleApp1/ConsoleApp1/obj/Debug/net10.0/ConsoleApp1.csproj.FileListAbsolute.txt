@@ -1,0 +1,15 @@
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+c:\Codes\CsharpProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
