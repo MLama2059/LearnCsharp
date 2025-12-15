@@ -5,7 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Debug ExceptionHandling (net10.0)",
+            "name": "CreateAndThrowException",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/CreateAndThrowException/bin/Debug/net10.0/CreateAndThrowException.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/CreateAndThrowException",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "ExceptionHandling",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
